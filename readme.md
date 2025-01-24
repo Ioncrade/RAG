@@ -123,6 +123,7 @@ Make sure you have the following installed:
 
 ## Screenshots
 
+![Screenshot 2025-01-24 210037](https://github.com/user-attachments/assets/8696fb15-318e-49c8-aea4-3e8da26a8e33)
 
 
 ---
